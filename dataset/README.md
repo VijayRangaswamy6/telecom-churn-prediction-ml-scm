@@ -21,9 +21,7 @@ https://www.kaggle.com/datasets/shivam131019/telecom-churn-dataset
 1. Download the dataset from the Kaggle link above.
 2. Extract the CSV file.
 3. Rename it to: telecom_churn_data.csv
-4. Place it inside this folder:
-   dataset/
-└── telecom_churn_data.csv
+4. Place it inside this folder: dataset/ telecom_churn_data.csv
 
 ## Note
 
